@@ -7,3 +7,4 @@ Added category endpoints
 Created SQL database
 Added foreign keys
 Added sample data
+Added database verification
