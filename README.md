@@ -13,3 +13,4 @@ complete README.md
 Add Youtube Link
 Final cleanup and documentation verification
 https://youtu.be/ijCgLldQEy0 Video for section Aand C
+https://youtu.be/5N6IeMjvHkM section B
