@@ -4,3 +4,4 @@ Added API endpoint plan
 Added authentication endpoints
 Added event endpoints
 Added category endpoints
+Created SQL database
