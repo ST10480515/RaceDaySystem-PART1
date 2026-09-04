@@ -6,3 +6,4 @@ Added event endpoints
 Added category endpoints
 Created SQL database
 Added foreign keys
+Added sample data
