@@ -8,3 +8,4 @@ Created SQL database
 Added foreign keys
 Added sample data
 Added database verification
+Added GitHub Actions
